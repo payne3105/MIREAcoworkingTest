@@ -2,4 +2,4 @@
 
 ## Added Todo List to Demo project of Ant Design.
 
-Check for **./pages/TodoList**
+Check for **./src/pages/TodoList**
